@@ -1,0 +1,12 @@
+.body{
+    background-color: hsl(207, 26%, 17%);
+}
+/* body{
+    background-color: hsl(207, 26%, 17%);
+} */
+.nav{
+    background-color: hsl(209, 23%, 22%);
+}
+input[type="text"]{
+      background-color: hsl(209, 23%, 22%);
+}
